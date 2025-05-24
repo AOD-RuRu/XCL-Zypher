@@ -1,8 +1,8 @@
-# 👋 Hello, I'm XCL-Zypher!
+# 👋 Hello, I'm AOD_RuRu!
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=XCL-Zypher&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Visitors](https://komarev.com/ghpvc/?username=AOD_RuRu&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ## 🧑‍💻 About Me
 - 🎮 Passionate Roblox script developer
@@ -17,21 +17,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XCL-Zypher&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AOD_RuRu&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XCL-Zypher&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCL-Zypher&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AOD_RuRu&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOD_RuRu&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XCL-Zypher&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AOD_RuRu&theme=radical" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XCL-Zypher&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AOD_RuRu&theme=radical&row=1&column=6" />
 </p>
 
 ## 💻 Code Sample
